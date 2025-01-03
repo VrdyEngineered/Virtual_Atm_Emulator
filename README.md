@@ -24,7 +24,9 @@ This project is a secure and efficient internet banking system developed in Java
 ---
 ![Alt Text](Bank_management_system/Screenshots/NewUser.png)
    <p align="center" style="font-size: 10px;">Fig.2: New User Application Form</p>
+   
 ---
+
 ![Alt Text](Bank_management_system/Screenshots/ATM.png)
       <p align="center" style="font-size: 10px;">Fig.3: Virtual ATM</p>
 ---
