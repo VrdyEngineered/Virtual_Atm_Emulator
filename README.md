@@ -20,7 +20,7 @@ This project is a secure and efficient internet banking system developed in Java
 
 ---
 ![Alt Text](Bank_management_system/Screenshots/LoginPage.png)
-        <p align="center"><small>Fig.1: Login Page</small></p>
+       <p align="center" style="font-size: 10px;">Fig.1: Login Page</p>
 ---
 ![Alt Text](Bank_management_system/Screenshots/NewUser.png)
     -Fig.2: New User Application Form
