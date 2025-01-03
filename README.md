@@ -20,6 +20,7 @@ This project is a secure and efficient internet banking system developed in Java
 
 ---
 ![Alt Text](Bank_management_system/Screenshots/LoginPage.png)
+        - Fig.1: Login Page
 ---
 
 ## About Java Swing
