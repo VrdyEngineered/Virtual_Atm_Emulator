@@ -19,6 +19,9 @@ This project is a secure and efficient internet banking system developed in Java
   - Efficient storage and management of user data and transactions using a MySQL database.
 
 ---
+<img src="C:\Users\HP\OneDrive\Pictures\Screenshots" alt="Bank System Diagram" width="500" />
+
+---
 
 ## About Java Swing
 
